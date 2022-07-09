@@ -14,7 +14,7 @@ As seguintes perguntas serão respondidas:
 
 ## Resultados
 
-Todo o processo de código e detalhamento da análise está neste [notebook](https://github.com/marinavillaschi/creditcard-default-pred/blob/main/Analisando_os_Dados_do_Airbnb_Munique.ipynb).
+Todo o processo de código e detalhamento da análise está neste [notebook](https://github.com/marinavillaschi/airbnb-analysis/blob/main/Analisando_os_Dados_do_Airbnb_Munique.ipynb).
 
 Também está disponível em forma de post no blog [aqui](https://pandascouple.medium.com/an%C3%A1lise-dos-dados-do-airbnb-munique-2632d1cb150e).
 
